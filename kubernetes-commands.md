@@ -64,5 +64,3 @@ kubectl apply -f virtualservice.yaml
 ```bash
 kubectl get constraints -n my-namespace
 ```
-
-This format highlights the executable nature of the commands, making it easier for users to grasp the instructions and apply them effectively.
