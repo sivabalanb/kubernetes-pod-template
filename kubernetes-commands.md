@@ -1,5 +1,5 @@
 
-**Basic Commands**
+# Basic Commands
 
 **1. List all pods in the specified namespace:**
 ```bash
@@ -16,7 +16,7 @@ kubectl get services
 kubectl get hpa
 ```
 
-**Intermediate Commands**
+# Intermediate Commands
 
 **4. Forward local port to a pod's specific port:**
 ```bash
@@ -38,7 +38,7 @@ kubectl get netpol
 kubectl get virtualservices
 ```
 
-**Advanced Commands**
+#  Advanced Commands
 
 **8. Create a new pod from the deployment.yaml file:**
 ```bash
