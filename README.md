@@ -1,6 +1,6 @@
 ## Unleash the Kubernetes Powerhouse with this Pod Template Repo🚀🚀🚀
 
-🛡️ Embark on Your Kubernetes Journey with this Comprehensive Arsenal⚔️⚔️⚔️
+🛡️ ***Embark on Your Kubernetes Journey with this Comprehensive Arsenal***⚔️⚔️⚔️
 
 🐳 **Dockerfile**: Assemble Your Application's Vessel⛵️⛵️⛵️
 
