@@ -30,7 +30,7 @@ kubectl logs pod/my-pod
 
 **6. List all namespace-specific network policies:**
 ```bash
-kubectl get networkpolicies
+kubectl get netpol
 ```
 
 **7. List all namespace-specific virtual services:**
