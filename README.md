@@ -1,4 +1,4 @@
-##Unleash the Kubernetes Powerhouse with this Pod Template Repo🚀🚀🚀
+## Unleash the Kubernetes Powerhouse with this Pod Template Repo🚀🚀🚀
 
 🛡️ Embark on Your Kubernetes Journey with this Comprehensive Arsenal⚔️⚔️⚔️
 
@@ -30,4 +30,4 @@ Elevate your deployment to new heights with the pipelines directory. Harness the
 
 Emerge as a seasoned Kubernetes warrior with this repository and conquer the world of cloud-native applications.🎉🎉🎉
 
-**Happy Deploying!**🚀🚀🚀
+**Happy Deploying**!🚀🚀🚀
